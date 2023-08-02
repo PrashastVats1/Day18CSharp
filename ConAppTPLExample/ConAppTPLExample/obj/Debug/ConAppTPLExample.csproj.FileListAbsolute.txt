@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day18\ConAppTPLExample\ConAppTPLExample\bin\Debug\ConAppTPLExample.exe.config
+D:\Mphasis\Live Session\Day18\ConAppTPLExample\ConAppTPLExample\bin\Debug\ConAppTPLExample.exe
+D:\Mphasis\Live Session\Day18\ConAppTPLExample\ConAppTPLExample\bin\Debug\ConAppTPLExample.pdb
+D:\Mphasis\Live Session\Day18\ConAppTPLExample\ConAppTPLExample\obj\Debug\ConAppTPLExample.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day18\ConAppTPLExample\ConAppTPLExample\obj\Debug\ConAppTPLExample.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day18\ConAppTPLExample\ConAppTPLExample\obj\Debug\ConAppTPLExample.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day18\ConAppTPLExample\ConAppTPLExample\obj\Debug\ConAppTPLExample.exe
+D:\Mphasis\Live Session\Day18\ConAppTPLExample\ConAppTPLExample\obj\Debug\ConAppTPLExample.pdb

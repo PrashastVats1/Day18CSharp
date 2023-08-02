@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day18\ConAppThreadingEx2\ConAppThreadingEx2\bin\Debug\ConAppThreadingEx2.exe.config
+D:\Mphasis\Live Session\Day18\ConAppThreadingEx2\ConAppThreadingEx2\bin\Debug\ConAppThreadingEx2.exe
+D:\Mphasis\Live Session\Day18\ConAppThreadingEx2\ConAppThreadingEx2\bin\Debug\ConAppThreadingEx2.pdb
+D:\Mphasis\Live Session\Day18\ConAppThreadingEx2\ConAppThreadingEx2\obj\Debug\ConAppThreadingEx2.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day18\ConAppThreadingEx2\ConAppThreadingEx2\obj\Debug\ConAppThreadingEx2.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day18\ConAppThreadingEx2\ConAppThreadingEx2\obj\Debug\ConAppThreadingEx2.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day18\ConAppThreadingEx2\ConAppThreadingEx2\obj\Debug\ConAppThreadingEx2.exe
+D:\Mphasis\Live Session\Day18\ConAppThreadingEx2\ConAppThreadingEx2\obj\Debug\ConAppThreadingEx2.pdb
